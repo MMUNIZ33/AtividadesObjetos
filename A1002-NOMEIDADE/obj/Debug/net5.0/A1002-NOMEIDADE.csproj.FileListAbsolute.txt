@@ -1,0 +1,16 @@
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1002-NOMEIDADE\bin\Debug\net5.0\A1002-NOMEIDADE.exe
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1002-NOMEIDADE\bin\Debug\net5.0\A1002-NOMEIDADE.deps.json
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1002-NOMEIDADE\bin\Debug\net5.0\A1002-NOMEIDADE.runtimeconfig.json
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1002-NOMEIDADE\bin\Debug\net5.0\A1002-NOMEIDADE.runtimeconfig.dev.json
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1002-NOMEIDADE\bin\Debug\net5.0\A1002-NOMEIDADE.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1002-NOMEIDADE\bin\Debug\net5.0\ref\A1002-NOMEIDADE.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1002-NOMEIDADE\bin\Debug\net5.0\A1002-NOMEIDADE.pdb
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1002-NOMEIDADE\obj\Debug\net5.0\A1002-NOMEIDADE.csproj.AssemblyReference.cache
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1002-NOMEIDADE\obj\Debug\net5.0\A1002-NOMEIDADE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1002-NOMEIDADE\obj\Debug\net5.0\A1002-NOMEIDADE.AssemblyInfoInputs.cache
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1002-NOMEIDADE\obj\Debug\net5.0\A1002-NOMEIDADE.AssemblyInfo.cs
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1002-NOMEIDADE\obj\Debug\net5.0\A1002-NOMEIDADE.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1002-NOMEIDADE\obj\Debug\net5.0\A1002-NOMEIDADE.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1002-NOMEIDADE\obj\Debug\net5.0\ref\A1002-NOMEIDADE.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1002-NOMEIDADE\obj\Debug\net5.0\A1002-NOMEIDADE.pdb
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1002-NOMEIDADE\obj\Debug\net5.0\A1002-NOMEIDADE.genruntimeconfig.cache

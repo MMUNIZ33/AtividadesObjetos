@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "A1002-NOMEIDADE/1.0.0": {
+        "runtime": {
+          "A1002-NOMEIDADE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A1002-NOMEIDADE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
