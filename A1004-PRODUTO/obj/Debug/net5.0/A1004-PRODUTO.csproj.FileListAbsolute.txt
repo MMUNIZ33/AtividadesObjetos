@@ -1,0 +1,16 @@
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1004-PRODUTO\bin\Debug\net5.0\A1004-PRODUTO.exe
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1004-PRODUTO\bin\Debug\net5.0\A1004-PRODUTO.deps.json
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1004-PRODUTO\bin\Debug\net5.0\A1004-PRODUTO.runtimeconfig.json
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1004-PRODUTO\bin\Debug\net5.0\A1004-PRODUTO.runtimeconfig.dev.json
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1004-PRODUTO\bin\Debug\net5.0\A1004-PRODUTO.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1004-PRODUTO\bin\Debug\net5.0\ref\A1004-PRODUTO.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1004-PRODUTO\bin\Debug\net5.0\A1004-PRODUTO.pdb
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1004-PRODUTO\obj\Debug\net5.0\A1004-PRODUTO.csproj.AssemblyReference.cache
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1004-PRODUTO\obj\Debug\net5.0\A1004-PRODUTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1004-PRODUTO\obj\Debug\net5.0\A1004-PRODUTO.AssemblyInfoInputs.cache
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1004-PRODUTO\obj\Debug\net5.0\A1004-PRODUTO.AssemblyInfo.cs
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1004-PRODUTO\obj\Debug\net5.0\A1004-PRODUTO.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1004-PRODUTO\obj\Debug\net5.0\A1004-PRODUTO.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1004-PRODUTO\obj\Debug\net5.0\ref\A1004-PRODUTO.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1004-PRODUTO\obj\Debug\net5.0\A1004-PRODUTO.pdb
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1004-PRODUTO\obj\Debug\net5.0\A1004-PRODUTO.genruntimeconfig.cache
