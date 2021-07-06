@@ -1,0 +1,16 @@
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\1001-TRIANGULO\bin\Debug\net5.0\1001-TRIANGULO.exe
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\1001-TRIANGULO\bin\Debug\net5.0\1001-TRIANGULO.deps.json
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\1001-TRIANGULO\bin\Debug\net5.0\1001-TRIANGULO.runtimeconfig.json
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\1001-TRIANGULO\bin\Debug\net5.0\1001-TRIANGULO.runtimeconfig.dev.json
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\1001-TRIANGULO\bin\Debug\net5.0\1001-TRIANGULO.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\1001-TRIANGULO\bin\Debug\net5.0\ref\1001-TRIANGULO.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\1001-TRIANGULO\bin\Debug\net5.0\1001-TRIANGULO.pdb
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\1001-TRIANGULO\obj\Debug\net5.0\1001-TRIANGULO.csproj.AssemblyReference.cache
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\1001-TRIANGULO\obj\Debug\net5.0\1001-TRIANGULO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\1001-TRIANGULO\obj\Debug\net5.0\1001-TRIANGULO.AssemblyInfoInputs.cache
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\1001-TRIANGULO\obj\Debug\net5.0\1001-TRIANGULO.AssemblyInfo.cs
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\1001-TRIANGULO\obj\Debug\net5.0\1001-TRIANGULO.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\1001-TRIANGULO\obj\Debug\net5.0\1001-TRIANGULO.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\1001-TRIANGULO\obj\Debug\net5.0\ref\1001-TRIANGULO.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\1001-TRIANGULO\obj\Debug\net5.0\1001-TRIANGULO.pdb
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\1001-TRIANGULO\obj\Debug\net5.0\1001-TRIANGULO.genruntimeconfig.cache
