@@ -1,0 +1,16 @@
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1003-FUNCIONARIO\bin\Debug\net5.0\A1003-FUNCIONARIO.exe
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1003-FUNCIONARIO\bin\Debug\net5.0\A1003-FUNCIONARIO.deps.json
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1003-FUNCIONARIO\bin\Debug\net5.0\A1003-FUNCIONARIO.runtimeconfig.json
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1003-FUNCIONARIO\bin\Debug\net5.0\A1003-FUNCIONARIO.runtimeconfig.dev.json
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1003-FUNCIONARIO\bin\Debug\net5.0\A1003-FUNCIONARIO.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1003-FUNCIONARIO\bin\Debug\net5.0\ref\A1003-FUNCIONARIO.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1003-FUNCIONARIO\bin\Debug\net5.0\A1003-FUNCIONARIO.pdb
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1003-FUNCIONARIO\obj\Debug\net5.0\A1003-FUNCIONARIO.csproj.AssemblyReference.cache
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1003-FUNCIONARIO\obj\Debug\net5.0\A1003-FUNCIONARIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1003-FUNCIONARIO\obj\Debug\net5.0\A1003-FUNCIONARIO.AssemblyInfoInputs.cache
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1003-FUNCIONARIO\obj\Debug\net5.0\A1003-FUNCIONARIO.AssemblyInfo.cs
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1003-FUNCIONARIO\obj\Debug\net5.0\A1003-FUNCIONARIO.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1003-FUNCIONARIO\obj\Debug\net5.0\A1003-FUNCIONARIO.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1003-FUNCIONARIO\obj\Debug\net5.0\ref\A1003-FUNCIONARIO.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1003-FUNCIONARIO\obj\Debug\net5.0\A1003-FUNCIONARIO.pdb
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1003-FUNCIONARIO\obj\Debug\net5.0\A1003-FUNCIONARIO.genruntimeconfig.cache

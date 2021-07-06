@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "A1003-FUNCIONARIO/1.0.0": {
+        "runtime": {
+          "A1003-FUNCIONARIO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A1003-FUNCIONARIO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
