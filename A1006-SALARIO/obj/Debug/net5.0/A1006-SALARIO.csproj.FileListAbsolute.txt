@@ -1,0 +1,16 @@
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1006-SALARIO\bin\Debug\net5.0\A1006-SALARIO.exe
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1006-SALARIO\bin\Debug\net5.0\A1006-SALARIO.deps.json
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1006-SALARIO\bin\Debug\net5.0\A1006-SALARIO.runtimeconfig.json
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1006-SALARIO\bin\Debug\net5.0\A1006-SALARIO.runtimeconfig.dev.json
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1006-SALARIO\bin\Debug\net5.0\A1006-SALARIO.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1006-SALARIO\bin\Debug\net5.0\ref\A1006-SALARIO.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1006-SALARIO\bin\Debug\net5.0\A1006-SALARIO.pdb
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1006-SALARIO\obj\Debug\net5.0\A1006-SALARIO.csproj.AssemblyReference.cache
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1006-SALARIO\obj\Debug\net5.0\A1006-SALARIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1006-SALARIO\obj\Debug\net5.0\A1006-SALARIO.AssemblyInfoInputs.cache
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1006-SALARIO\obj\Debug\net5.0\A1006-SALARIO.AssemblyInfo.cs
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1006-SALARIO\obj\Debug\net5.0\A1006-SALARIO.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1006-SALARIO\obj\Debug\net5.0\A1006-SALARIO.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1006-SALARIO\obj\Debug\net5.0\ref\A1006-SALARIO.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1006-SALARIO\obj\Debug\net5.0\A1006-SALARIO.pdb
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1006-SALARIO\obj\Debug\net5.0\A1006-SALARIO.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "A1006-SALARIO/1.0.0": {
+        "runtime": {
+          "A1006-SALARIO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A1006-SALARIO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
