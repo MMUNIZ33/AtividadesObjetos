@@ -1,0 +1,16 @@
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1007-NOTA\bin\Debug\net5.0\A1007-NOTA.exe
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1007-NOTA\bin\Debug\net5.0\A1007-NOTA.deps.json
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1007-NOTA\bin\Debug\net5.0\A1007-NOTA.runtimeconfig.json
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1007-NOTA\bin\Debug\net5.0\A1007-NOTA.runtimeconfig.dev.json
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1007-NOTA\bin\Debug\net5.0\A1007-NOTA.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1007-NOTA\bin\Debug\net5.0\ref\A1007-NOTA.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1007-NOTA\bin\Debug\net5.0\A1007-NOTA.pdb
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1007-NOTA\obj\Debug\net5.0\A1007-NOTA.csproj.AssemblyReference.cache
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1007-NOTA\obj\Debug\net5.0\A1007-NOTA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1007-NOTA\obj\Debug\net5.0\A1007-NOTA.AssemblyInfoInputs.cache
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1007-NOTA\obj\Debug\net5.0\A1007-NOTA.AssemblyInfo.cs
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1007-NOTA\obj\Debug\net5.0\A1007-NOTA.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1007-NOTA\obj\Debug\net5.0\A1007-NOTA.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1007-NOTA\obj\Debug\net5.0\ref\A1007-NOTA.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1007-NOTA\obj\Debug\net5.0\A1007-NOTA.pdb
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1007-NOTA\obj\Debug\net5.0\A1007-NOTA.genruntimeconfig.cache
