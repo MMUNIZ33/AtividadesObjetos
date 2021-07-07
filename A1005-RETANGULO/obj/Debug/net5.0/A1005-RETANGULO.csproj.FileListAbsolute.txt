@@ -1,0 +1,16 @@
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1005-RETANGULO\bin\Debug\net5.0\A1005-RETANGULO.exe
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1005-RETANGULO\bin\Debug\net5.0\A1005-RETANGULO.deps.json
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1005-RETANGULO\bin\Debug\net5.0\A1005-RETANGULO.runtimeconfig.json
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1005-RETANGULO\bin\Debug\net5.0\A1005-RETANGULO.runtimeconfig.dev.json
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1005-RETANGULO\bin\Debug\net5.0\A1005-RETANGULO.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1005-RETANGULO\bin\Debug\net5.0\ref\A1005-RETANGULO.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1005-RETANGULO\bin\Debug\net5.0\A1005-RETANGULO.pdb
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1005-RETANGULO\obj\Debug\net5.0\A1005-RETANGULO.csproj.AssemblyReference.cache
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1005-RETANGULO\obj\Debug\net5.0\A1005-RETANGULO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1005-RETANGULO\obj\Debug\net5.0\A1005-RETANGULO.AssemblyInfoInputs.cache
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1005-RETANGULO\obj\Debug\net5.0\A1005-RETANGULO.AssemblyInfo.cs
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1005-RETANGULO\obj\Debug\net5.0\A1005-RETANGULO.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1005-RETANGULO\obj\Debug\net5.0\A1005-RETANGULO.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1005-RETANGULO\obj\Debug\net5.0\ref\A1005-RETANGULO.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1005-RETANGULO\obj\Debug\net5.0\A1005-RETANGULO.pdb
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1005-RETANGULO\obj\Debug\net5.0\A1005-RETANGULO.genruntimeconfig.cache
