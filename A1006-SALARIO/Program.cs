@@ -17,14 +17,14 @@ namespace A1006_SALARIO
             Console.Write("Imposto: ");
             A.Imposto = double.Parse(Console.ReadLine(), CI);
 
-            Console.WriteLine($"Dados atualizados: {A.Name}, $ {A.SalarioLiquido().ToString("F2", CI)}");
+            Console.WriteLine($"Dados atualizados: " + A);
 
             Console.Write("Digite a porcentagem para aumentar o salário: ");
             double porcent = 0.0;
             porcent = double.Parse(Console.ReadLine(), CI);
             A.AumentarSalario(porcent);
             
-            Console.WriteLine($"Dados atualizados: {A.Name}, $ {A.SalarioBruto.ToString("F2", CI)}");
+            Console.WriteLine($"Dados atualizados: " + A);
 
         }
     }
