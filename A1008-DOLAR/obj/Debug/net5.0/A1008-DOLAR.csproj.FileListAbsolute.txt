@@ -1,0 +1,16 @@
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1008-DOLAR\bin\Debug\net5.0\A1008-DOLAR.exe
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1008-DOLAR\bin\Debug\net5.0\A1008-DOLAR.deps.json
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1008-DOLAR\bin\Debug\net5.0\A1008-DOLAR.runtimeconfig.json
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1008-DOLAR\bin\Debug\net5.0\A1008-DOLAR.runtimeconfig.dev.json
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1008-DOLAR\bin\Debug\net5.0\A1008-DOLAR.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1008-DOLAR\bin\Debug\net5.0\ref\A1008-DOLAR.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1008-DOLAR\bin\Debug\net5.0\A1008-DOLAR.pdb
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1008-DOLAR\obj\Debug\net5.0\A1008-DOLAR.csproj.AssemblyReference.cache
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1008-DOLAR\obj\Debug\net5.0\A1008-DOLAR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1008-DOLAR\obj\Debug\net5.0\A1008-DOLAR.AssemblyInfoInputs.cache
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1008-DOLAR\obj\Debug\net5.0\A1008-DOLAR.AssemblyInfo.cs
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1008-DOLAR\obj\Debug\net5.0\A1008-DOLAR.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1008-DOLAR\obj\Debug\net5.0\A1008-DOLAR.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1008-DOLAR\obj\Debug\net5.0\ref\A1008-DOLAR.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1008-DOLAR\obj\Debug\net5.0\A1008-DOLAR.pdb
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1008-DOLAR\obj\Debug\net5.0\A1008-DOLAR.genruntimeconfig.cache

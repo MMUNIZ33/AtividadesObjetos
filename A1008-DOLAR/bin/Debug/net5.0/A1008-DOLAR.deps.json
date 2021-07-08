@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "A1008-DOLAR/1.0.0": {
+        "runtime": {
+          "A1008-DOLAR.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A1008-DOLAR/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
