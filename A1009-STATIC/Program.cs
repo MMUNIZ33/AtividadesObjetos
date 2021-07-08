@@ -7,18 +7,16 @@ namespace A1009_STATIC
     {
         static void Main(string[] args)
         {
-            Calculadora calc = new Calculadora();
-
             CultureInfo CI = CultureInfo.InvariantCulture;
             Console.Write("Valor do Raio: ");
             double raio = double.Parse(Console.ReadLine(), CI);
 
-            double circ = calc.Circunferencia(raio);
-            double volume = calc.Volume(raio);
+            double circ = Calculadora.Circunferencia(raio);
+            double volume = Calculadora.Volume(raio);
 
             Console.WriteLine("CIRCUNFERÊNCIA: " + circ.ToString("F2", CI));
             Console.WriteLine("VOLUME: " + volume.ToString("F2", CI));
-            Console.WriteLine("VALOR DE PI: " + calc.Pi.ToString("F2", CI));
+            Console.WriteLine("VALOR DE PI: " + Calculadora.Pi.ToString("F2", CI));
         }
     }
 }
