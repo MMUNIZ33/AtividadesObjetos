@@ -1,0 +1,16 @@
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1009-STATIC\bin\Debug\net5.0\A1009-STATIC.exe
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1009-STATIC\bin\Debug\net5.0\A1009-STATIC.deps.json
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1009-STATIC\bin\Debug\net5.0\A1009-STATIC.runtimeconfig.json
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1009-STATIC\bin\Debug\net5.0\A1009-STATIC.runtimeconfig.dev.json
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1009-STATIC\bin\Debug\net5.0\A1009-STATIC.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1009-STATIC\bin\Debug\net5.0\ref\A1009-STATIC.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1009-STATIC\bin\Debug\net5.0\A1009-STATIC.pdb
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1009-STATIC\obj\Debug\net5.0\A1009-STATIC.csproj.AssemblyReference.cache
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1009-STATIC\obj\Debug\net5.0\A1009-STATIC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1009-STATIC\obj\Debug\net5.0\A1009-STATIC.AssemblyInfoInputs.cache
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1009-STATIC\obj\Debug\net5.0\A1009-STATIC.AssemblyInfo.cs
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1009-STATIC\obj\Debug\net5.0\A1009-STATIC.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1009-STATIC\obj\Debug\net5.0\A1009-STATIC.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1009-STATIC\obj\Debug\net5.0\ref\A1009-STATIC.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1009-STATIC\obj\Debug\net5.0\A1009-STATIC.pdb
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1009-STATIC\obj\Debug\net5.0\A1009-STATIC.genruntimeconfig.cache
