@@ -5,33 +5,39 @@ namespace A1004_PRODUTO
 {
     class Produto
     {
-        public string name;
-        public double preco;
-        public int quantidade;
+        public string Name;
+        public double Preco;
+        public int Quantidade;
+        public Produto(string name, double preco, int quantidade)
+        {
+            Name = name;
+            Preco = preco;
+            Quantidade = quantidade;
+        }
 
         public double ValorTotalEmStoque()
         {
-            return preco * quantidade;
+            return Preco * Quantidade;
         }
 
         public override string ToString()
         {
             CultureInfo CI = CultureInfo.InvariantCulture;
-            return name + ", $ " 
-            + preco.ToString("F2", CI) + ", " 
-            + quantidade + " "
+            return Name + ", $ " 
+            + Preco.ToString("F2", CI) + ", " 
+            + Quantidade + " "
             + "unidades, " + "Total: $ " 
             + ValorTotalEmStoque().ToString("F2", CI);
         }
 
         public void AdicionarProdutos(int add)
         {
-            quantidade += add;
+            Quantidade += add;
         }
 
         public void RemoverProdutos(int rmv)
         {
-            quantidade -= rmv;
+            Quantidade -= rmv;
         }
     }
 }
