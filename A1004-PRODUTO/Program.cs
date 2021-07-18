@@ -7,42 +7,57 @@ namespace A1004_PRODUTO
     {
         static void Main(string[] args)
         {
-            CultureInfo CI = CultureInfo.InvariantCulture;
+            Produto pe = new Produto("TV", 500, 10);
+            
+            pe.Name = "T";
+            Console.WriteLine(pe.Name);
+            Console.WriteLine(pe.Preco);
+            Console.WriteLine(pe.Quantidade);
 
-            // Leitura de Dados
-            Console.WriteLine("Entre com os dados do produto:");
-            Console.Write("Nome: ");
-            string name = Console.ReadLine();
-            Console.Write("Preço: ");
-            double preco = double.Parse(Console.ReadLine(), CI);
-            Console.Write("Quantidade: ");
-            int quantidade = int.Parse(Console.ReadLine());
 
-            // Construtor
-            Produto p = new Produto(name, preco, quantidade);
+            // CultureInfo CI = CultureInfo.InvariantCulture;
 
-            // Imprimir 1
-            Console.WriteLine();
-            Console.WriteLine("Dados do produto: " + p);
+            // // Leitura de Dados
+            // Console.WriteLine("Entre com os dados do produto:");
+            // Console.Write("Nome: ");
+            // string name = Console.ReadLine();
+            // Console.Write("Preço: ");
+            // double preco = double.Parse(Console.ReadLine(), CI);
+            // Console.Write("Quantidade: ");
+            // int quantidade = int.Parse(Console.ReadLine());
 
-            Console.WriteLine();
-            Console.Write("Digite o número de produtos a serem adicionados: ");
-            int add1 = int.Parse(Console.ReadLine());
-            p.AdicionarProdutos(add1);
+            // // Construtor
+            // Produto p = new Produto();
+            // Produto p2 = new Produto(name, preco);
+            // // {
+            // //     Name = name,
+            // //     Preco = preco,
+            // //     Quantidade = 20
+            // // };
 
-            // Imprimir 2
-            Console.WriteLine();
-            Console.WriteLine("Dados do produto: " + p);
 
-            Console.WriteLine();
-            Console.Write("Digite o número de produtos a serem removidos: ");
-            int rmv1 = int.Parse(Console.ReadLine());
-            p.RemoverProdutos(rmv1);
+            // // Imprimir 1
+            // Console.WriteLine();
+            // Console.WriteLine("Dados do produto: " + p);
 
-            // Imprimir 3
-            Console.WriteLine();
-            Console.WriteLine("Dados do produto: " + p);
-            Console.WriteLine();
+            // Console.WriteLine();
+            // Console.Write("Digite o número de produtos a serem adicionados: ");
+            // int add1 = int.Parse(Console.ReadLine());
+            // p.AdicionarProdutos(add1);
+
+            // // Imprimir 2
+            // Console.WriteLine();
+            // Console.WriteLine("Dados do produto: " + p);
+
+            // Console.WriteLine();
+            // Console.Write("Digite o número de produtos a serem removidos: ");
+            // int rmv1 = int.Parse(Console.ReadLine());
+            // p.RemoverProdutos(rmv1);
+
+            // // Imprimir 3
+            // Console.WriteLine();
+            // Console.WriteLine("Dados do produto: " + p);
+            // Console.WriteLine();
         }
     }
 }
