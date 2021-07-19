@@ -1,0 +1,15 @@
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1011-VET\bin\Debug\net6.0\A1011-VET.exe
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1011-VET\bin\Debug\net6.0\A1011-VET.deps.json
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1011-VET\bin\Debug\net6.0\A1011-VET.runtimeconfig.json
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1011-VET\bin\Debug\net6.0\A1011-VET.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1011-VET\bin\Debug\net6.0\ref\A1011-VET.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1011-VET\bin\Debug\net6.0\A1011-VET.pdb
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1011-VET\obj\Debug\net6.0\A1011-VET.csproj.AssemblyReference.cache
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1011-VET\obj\Debug\net6.0\A1011-VET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1011-VET\obj\Debug\net6.0\A1011-VET.AssemblyInfoInputs.cache
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1011-VET\obj\Debug\net6.0\A1011-VET.AssemblyInfo.cs
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1011-VET\obj\Debug\net6.0\A1011-VET.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1011-VET\obj\Debug\net6.0\A1011-VET.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1011-VET\obj\Debug\net6.0\ref\A1011-VET.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1011-VET\obj\Debug\net6.0\A1011-VET.pdb
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1011-VET\obj\Debug\net6.0\A1011-VET.genruntimeconfig.cache

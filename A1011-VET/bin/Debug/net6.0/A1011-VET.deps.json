@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "A1011-VET/1.0.0": {
+        "runtime": {
+          "A1011-VET.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A1011-VET/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
