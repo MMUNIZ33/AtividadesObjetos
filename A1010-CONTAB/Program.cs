@@ -8,6 +8,9 @@ namespace A1010_CONTAB
         static void Main(string[] args)
         {
             CultureInfo CI = CultureInfo.InvariantCulture;
+            var depositoI = 0.0;
+            ContaBancaria CB;
+
             Console.Write("Entre com o número da conta: ");
             var numeroCont = int.Parse(Console.ReadLine());
             Console.Write("Entre com o titular da conta: ");
@@ -15,14 +18,17 @@ namespace A1010_CONTAB
             Console.Write("Haverá depósito inicial (s/n)? ");
             char sn = char.Parse(Console.ReadLine());
 
-            double depositoI = 0.0;
-            if (sn == 's')
+            if (sn == 's' || sn == 'S')
             {
                 Console.Write("\nEntre com o valor de depósito inicial: ");
                 depositoI = double.Parse(Console.ReadLine(), CI);
+                CB = new ContaBancaria(numeroCont, name, depositoI);
+            }
+            else
+            {
+                CB = new ContaBancaria(numeroCont, name);
             }
 
-            ContaBancaria CB = new ContaBancaria(numeroCont, name, depositoI);
             Console.WriteLine("\nDados da conta:");
             Console.WriteLine(CB);
 

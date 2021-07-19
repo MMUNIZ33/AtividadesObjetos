@@ -3,17 +3,18 @@ namespace A1010_CONTAB
 {
     class ContaBancaria
     {
-        public int Numero;
-        public string Name;
-        public double Valor;
+        public int Numero { get; private set; }
+        public string Name { get; set; }
+        public double Valor { get;  private set; }
+
         public ContaBancaria(int numero, string name)
         {
             Numero = numero;
             Name = name;
         }
-        public ContaBancaria(int numero, string name, double valor) : this(numero, name)
+        public ContaBancaria(int numero, string name, double depositoInicial) : this(numero, name)
         {
-            Valor = valor;
+            Deposito(depositoInicial);
         }
         public void Deposito(double quantia)
         {
@@ -28,7 +29,7 @@ namespace A1010_CONTAB
         public override string ToString()
         {
             CultureInfo CI = CultureInfo.InvariantCulture;
-            return ($"Conta: {Numero}, Titular: {Name}, Saldo: $ {Valor}");
+            return ($"Conta: {Numero}, Titular: {Name}, Saldo: $ {Valor.ToString("F2", CI)}");
         }
     }
 
