@@ -1,0 +1,15 @@
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1013-QUARTOS\bin\Debug\net6.0\A1013-QUARTOS.exe
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1013-QUARTOS\bin\Debug\net6.0\A1013-QUARTOS.deps.json
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1013-QUARTOS\bin\Debug\net6.0\A1013-QUARTOS.runtimeconfig.json
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1013-QUARTOS\bin\Debug\net6.0\A1013-QUARTOS.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1013-QUARTOS\bin\Debug\net6.0\ref\A1013-QUARTOS.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1013-QUARTOS\bin\Debug\net6.0\A1013-QUARTOS.pdb
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1013-QUARTOS\obj\Debug\net6.0\A1013-QUARTOS.csproj.AssemblyReference.cache
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1013-QUARTOS\obj\Debug\net6.0\A1013-QUARTOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1013-QUARTOS\obj\Debug\net6.0\A1013-QUARTOS.AssemblyInfoInputs.cache
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1013-QUARTOS\obj\Debug\net6.0\A1013-QUARTOS.AssemblyInfo.cs
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1013-QUARTOS\obj\Debug\net6.0\A1013-QUARTOS.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1013-QUARTOS\obj\Debug\net6.0\A1013-QUARTOS.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1013-QUARTOS\obj\Debug\net6.0\ref\A1013-QUARTOS.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1013-QUARTOS\obj\Debug\net6.0\A1013-QUARTOS.pdb
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1013-QUARTOS\obj\Debug\net6.0\A1013-QUARTOS.genruntimeconfig.cache
