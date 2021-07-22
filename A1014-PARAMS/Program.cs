@@ -6,7 +6,10 @@ namespace A1014_PARAMS
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int s1 = Calculator.Soma(1, 2, 3);
+            int s2 = Calculator.Soma(10, 5, 5);
+            Console.WriteLine(s1);
+            Console.WriteLine(s2);
         }
     }
 }
