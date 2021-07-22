@@ -1,0 +1,15 @@
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1015-FOREACH\bin\Debug\net6.0\A1015-FOREACH.exe
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1015-FOREACH\bin\Debug\net6.0\A1015-FOREACH.deps.json
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1015-FOREACH\bin\Debug\net6.0\A1015-FOREACH.runtimeconfig.json
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1015-FOREACH\bin\Debug\net6.0\A1015-FOREACH.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1015-FOREACH\bin\Debug\net6.0\ref\A1015-FOREACH.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1015-FOREACH\bin\Debug\net6.0\A1015-FOREACH.pdb
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1015-FOREACH\obj\Debug\net6.0\A1015-FOREACH.csproj.AssemblyReference.cache
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1015-FOREACH\obj\Debug\net6.0\A1015-FOREACH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1015-FOREACH\obj\Debug\net6.0\A1015-FOREACH.AssemblyInfoInputs.cache
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1015-FOREACH\obj\Debug\net6.0\A1015-FOREACH.AssemblyInfo.cs
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1015-FOREACH\obj\Debug\net6.0\A1015-FOREACH.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1015-FOREACH\obj\Debug\net6.0\A1015-FOREACH.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1015-FOREACH\obj\Debug\net6.0\ref\A1015-FOREACH.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1015-FOREACH\obj\Debug\net6.0\A1015-FOREACH.pdb
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1015-FOREACH\obj\Debug\net6.0\A1015-FOREACH.genruntimeconfig.cache
