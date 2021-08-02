@@ -1,0 +1,15 @@
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1016-LISTS\bin\Debug\net6.0\A1016-LISTS.exe
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1016-LISTS\bin\Debug\net6.0\A1016-LISTS.deps.json
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1016-LISTS\bin\Debug\net6.0\A1016-LISTS.runtimeconfig.json
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1016-LISTS\bin\Debug\net6.0\A1016-LISTS.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1016-LISTS\bin\Debug\net6.0\ref\A1016-LISTS.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1016-LISTS\bin\Debug\net6.0\A1016-LISTS.pdb
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1016-LISTS\obj\Debug\net6.0\A1016-LISTS.csproj.AssemblyReference.cache
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1016-LISTS\obj\Debug\net6.0\A1016-LISTS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1016-LISTS\obj\Debug\net6.0\A1016-LISTS.AssemblyInfoInputs.cache
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1016-LISTS\obj\Debug\net6.0\A1016-LISTS.AssemblyInfo.cs
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1016-LISTS\obj\Debug\net6.0\A1016-LISTS.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1016-LISTS\obj\Debug\net6.0\A1016-LISTS.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1016-LISTS\obj\Debug\net6.0\ref\A1016-LISTS.dll
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1016-LISTS\obj\Debug\net6.0\A1016-LISTS.pdb
+C:\Users\Matheus Muniz\Desktop\AtiviadesComObjetos\A1016-LISTS\obj\Debug\net6.0\A1016-LISTS.genruntimeconfig.cache
