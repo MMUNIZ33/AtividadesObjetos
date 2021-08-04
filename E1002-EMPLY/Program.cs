@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace E1002_EMPLY
 {
@@ -6,7 +7,10 @@ namespace E1002_EMPLY
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.Write("Quantos funcionários serão cadastrados? ");
+            int n = int.Parse(Console.ReadLine());
+
+            List<string> list = new List<string>();
         }
     }
 }
