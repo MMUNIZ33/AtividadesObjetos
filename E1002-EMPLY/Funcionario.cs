@@ -2,7 +2,7 @@ using System.Globalization;
 
 namespace E1002_EMPLY
 {
-    class Funcionario
+    public class Funcionario
     {
         public int Id { get; set; }
         public string Name { get; set; }
