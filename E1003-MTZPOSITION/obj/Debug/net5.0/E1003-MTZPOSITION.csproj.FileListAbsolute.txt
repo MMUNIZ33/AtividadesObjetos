@@ -1,0 +1,16 @@
+C:\Users\matheus\Documents\Matheus\AtividadesObjetos\E1003-MTZPOSITION\bin\Debug\net5.0\E1003-MTZPOSITION.exe
+C:\Users\matheus\Documents\Matheus\AtividadesObjetos\E1003-MTZPOSITION\bin\Debug\net5.0\E1003-MTZPOSITION.deps.json
+C:\Users\matheus\Documents\Matheus\AtividadesObjetos\E1003-MTZPOSITION\bin\Debug\net5.0\E1003-MTZPOSITION.runtimeconfig.json
+C:\Users\matheus\Documents\Matheus\AtividadesObjetos\E1003-MTZPOSITION\bin\Debug\net5.0\E1003-MTZPOSITION.runtimeconfig.dev.json
+C:\Users\matheus\Documents\Matheus\AtividadesObjetos\E1003-MTZPOSITION\bin\Debug\net5.0\E1003-MTZPOSITION.dll
+C:\Users\matheus\Documents\Matheus\AtividadesObjetos\E1003-MTZPOSITION\bin\Debug\net5.0\ref\E1003-MTZPOSITION.dll
+C:\Users\matheus\Documents\Matheus\AtividadesObjetos\E1003-MTZPOSITION\bin\Debug\net5.0\E1003-MTZPOSITION.pdb
+C:\Users\matheus\Documents\Matheus\AtividadesObjetos\E1003-MTZPOSITION\obj\Debug\net5.0\E1003-MTZPOSITION.csproj.AssemblyReference.cache
+C:\Users\matheus\Documents\Matheus\AtividadesObjetos\E1003-MTZPOSITION\obj\Debug\net5.0\E1003-MTZPOSITION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus\Documents\Matheus\AtividadesObjetos\E1003-MTZPOSITION\obj\Debug\net5.0\E1003-MTZPOSITION.AssemblyInfoInputs.cache
+C:\Users\matheus\Documents\Matheus\AtividadesObjetos\E1003-MTZPOSITION\obj\Debug\net5.0\E1003-MTZPOSITION.AssemblyInfo.cs
+C:\Users\matheus\Documents\Matheus\AtividadesObjetos\E1003-MTZPOSITION\obj\Debug\net5.0\E1003-MTZPOSITION.csproj.CoreCompileInputs.cache
+C:\Users\matheus\Documents\Matheus\AtividadesObjetos\E1003-MTZPOSITION\obj\Debug\net5.0\E1003-MTZPOSITION.dll
+C:\Users\matheus\Documents\Matheus\AtividadesObjetos\E1003-MTZPOSITION\obj\Debug\net5.0\ref\E1003-MTZPOSITION.dll
+C:\Users\matheus\Documents\Matheus\AtividadesObjetos\E1003-MTZPOSITION\obj\Debug\net5.0\E1003-MTZPOSITION.pdb
+C:\Users\matheus\Documents\Matheus\AtividadesObjetos\E1003-MTZPOSITION\obj\Debug\net5.0\E1003-MTZPOSITION.genruntimeconfig.cache
