@@ -1,0 +1,16 @@
+C:\Users\matheus\Documents\Matheus\AtividadesObjetos\A1016-DIAGONAL\bin\Debug\net5.0\A1016-DIAGONAL.exe
+C:\Users\matheus\Documents\Matheus\AtividadesObjetos\A1016-DIAGONAL\bin\Debug\net5.0\A1016-DIAGONAL.deps.json
+C:\Users\matheus\Documents\Matheus\AtividadesObjetos\A1016-DIAGONAL\bin\Debug\net5.0\A1016-DIAGONAL.runtimeconfig.json
+C:\Users\matheus\Documents\Matheus\AtividadesObjetos\A1016-DIAGONAL\bin\Debug\net5.0\A1016-DIAGONAL.runtimeconfig.dev.json
+C:\Users\matheus\Documents\Matheus\AtividadesObjetos\A1016-DIAGONAL\bin\Debug\net5.0\A1016-DIAGONAL.dll
+C:\Users\matheus\Documents\Matheus\AtividadesObjetos\A1016-DIAGONAL\bin\Debug\net5.0\ref\A1016-DIAGONAL.dll
+C:\Users\matheus\Documents\Matheus\AtividadesObjetos\A1016-DIAGONAL\bin\Debug\net5.0\A1016-DIAGONAL.pdb
+C:\Users\matheus\Documents\Matheus\AtividadesObjetos\A1016-DIAGONAL\obj\Debug\net5.0\A1016-DIAGONAL.csproj.AssemblyReference.cache
+C:\Users\matheus\Documents\Matheus\AtividadesObjetos\A1016-DIAGONAL\obj\Debug\net5.0\A1016-DIAGONAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus\Documents\Matheus\AtividadesObjetos\A1016-DIAGONAL\obj\Debug\net5.0\A1016-DIAGONAL.AssemblyInfoInputs.cache
+C:\Users\matheus\Documents\Matheus\AtividadesObjetos\A1016-DIAGONAL\obj\Debug\net5.0\A1016-DIAGONAL.AssemblyInfo.cs
+C:\Users\matheus\Documents\Matheus\AtividadesObjetos\A1016-DIAGONAL\obj\Debug\net5.0\A1016-DIAGONAL.csproj.CoreCompileInputs.cache
+C:\Users\matheus\Documents\Matheus\AtividadesObjetos\A1016-DIAGONAL\obj\Debug\net5.0\A1016-DIAGONAL.dll
+C:\Users\matheus\Documents\Matheus\AtividadesObjetos\A1016-DIAGONAL\obj\Debug\net5.0\ref\A1016-DIAGONAL.dll
+C:\Users\matheus\Documents\Matheus\AtividadesObjetos\A1016-DIAGONAL\obj\Debug\net5.0\A1016-DIAGONAL.pdb
+C:\Users\matheus\Documents\Matheus\AtividadesObjetos\A1016-DIAGONAL\obj\Debug\net5.0\A1016-DIAGONAL.genruntimeconfig.cache
