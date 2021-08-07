@@ -36,23 +36,35 @@ namespace E1003_MTZPOSITION
                         Console.Write("Posição: ");
                         Console.WriteLine($"{i},{j}");
                         
-                        // refazer as condições
-                        if (j > 0)
-                        {
-                            Console.Write("Esquerda: " + matrz[i, (j + 1)]);
+                        if (j > 0) {
+                            Console.WriteLine("Esquerda: " + matrz[i, j - 1]);
                         }
-                        if (i > 0)
-                        {
-                            Console.WriteLine("Direita: " + matrz[i, j]);
+                        if (i > 0) {
+                            Console.WriteLine("Em cima: " + matrz[i - 1, j]);
                         }
-                        if (j > 0)
-                        {
-                            Console.WriteLine("Em cima: ");
+                        if (j < C - 1) {
+                            Console.WriteLine("Direita: " + matrz[i, j + 1]);
                         }
-                        if (i > 0)
-                        {
-                            Console.WriteLine("Em baixo: ");
+                        if (i < L - 1) {
+                            Console.WriteLine("Em baixo: " + matrz[i + 1, j]);
                         }
+                        // // refazer as condições
+                        // if (j > 0)
+                        // {
+                        //     Console.WriteLine("Esquerda: " + matrz[i, (j - 1)]);
+                        // }
+                        // if (i > 0)
+                        // {
+                        //     Console.WriteLine("Direita: " + matrz[i, (j + 1)]);
+                        // }
+                        // if (j > 0)
+                        // {
+                        //     Console.WriteLine("Em cima: ");
+                        // }
+                        // if (i > 0)
+                        // {
+                        //     Console.WriteLine("Em baixo: ");
+                        // }
                     }
                 }
             }
