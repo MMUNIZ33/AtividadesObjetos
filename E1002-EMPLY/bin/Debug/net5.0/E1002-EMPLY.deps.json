@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "E1002-EMPLY/1.0.0": {
+        "runtime": {
+          "E1002-EMPLY.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "E1002-EMPLY/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

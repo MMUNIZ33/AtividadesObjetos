@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "E1003-MTZPOSITION/1.0.0": {
+        "runtime": {
+          "E1003-MTZPOSITION.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "E1003-MTZPOSITION/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
